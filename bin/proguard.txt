@@ -1,0 +1,159 @@
+# view res/layout/include_chat_bottom_bar.xml #generated:121
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:167
+-keep class cn.bmob.im.poll.BmobPollService { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class cn.bmob.push.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class cn.bmob.push.lib.service.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class cn.bmob.v3.update.UpdateDialogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/activity_location.xml #generated:10
+-keep class com.baidu.mapapi.map.MapView { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class com.xpple.im.CustomApplcation { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.xpple.im.MyMessageReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.xpple.im.ui.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.xpple.im.ui.AddFriendActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.xpple.im.ui.BlackListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.xpple.im.ui.ChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.xpple.im.ui.FeedbackListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.xpple.im.ui.ImageBrowserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.xpple.im.ui.LocationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class com.xpple.im.ui.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.xpple.im.ui.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.xpple.im.ui.NearPeopleActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.xpple.im.ui.NewFriendActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.xpple.im.ui.PuzzleActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.xpple.im.ui.RadarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.xpple.im.ui.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.xpple.im.ui.RobotActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.xpple.im.ui.SendFeedbackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.xpple.im.ui.SetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.xpple.im.ui.SetMyInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.xpple.im.ui.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class com.xpple.im.ui.UpdateInfoActivity { <init>(...); }
+
+# view res/layout/activity_add_contact.xml #generated:17
+# view res/layout/fragment_contacts.xml #generated:12
+-keep class com.xpple.im.view.ClearEditText { <init>(...); }
+
+# view res/layout/activity_showpicture.xml #generated:8
+-keep class com.xpple.im.view.CustomViewPager { <init>(...); }
+
+# view res/layout/activity_login.xml #generated:23
+# view res/layout/activity_login.xml #generated:42
+# view res/layout/activity_register.xml #generated:24
+# view res/layout/activity_register.xml #generated:42
+# view res/layout/activity_register.xml #generated:58
+# view res/layout/activity_register.xml #generated:74
+# view res/layout/activity_register.xml #generated:91
+-keep class com.xpple.im.view.DeletableEditText { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:2
+-keep class com.xpple.im.view.DragLayout { <init>(...); }
+
+# view res/layout/activity_robot.xml #generated:32
+# view res/layout/include_chat_bottom_bar.xml #generated:42
+-keep class com.xpple.im.view.EmoticonsEditText { <init>(...); }
+
+# view res/layout/include_action_bar.xml #generated:2
+-keep class com.xpple.im.view.HeaderLayout { <init>(...); }
+
+# view res/layout/fragment_contacts.xml #generated:67
+-keep class com.xpple.im.view.MyLetterView { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:180
+-keep class com.xpple.im.view.MyRelativeLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:15
+# view res/layout/activity_register.xml #generated:14
+# view res/layout/activity_set_info.xml #generated:122
+# view res/layout/fragment_set.xml #generated:28
+# view res/layout/item_add_friend.xml #generated:13
+# view res/layout/item_blacklist.xml #generated:6
+# view res/layout/item_chat_received_image.xml #generated:20
+# view res/layout/item_chat_received_location.xml #generated:51
+# view res/layout/item_chat_received_message.xml #generated:20
+# view res/layout/item_chat_received_voice.xml #generated:20
+# view res/layout/item_chat_sent_image.xml #generated:71
+# view res/layout/item_chat_sent_location.xml #generated:76
+# view res/layout/item_chat_sent_message.xml #generated:69
+# view res/layout/item_chat_sent_voice.xml #generated:20
+# view res/layout/item_conversation.xml #generated:16
+# view res/layout/item_near_people.xml #generated:8
+# view res/layout/item_user_friend.xml #generated:14
+-keep class com.xpple.im.view.RoundImageView { <init>(...); }
+
+# view res/layout/activity_redar.xml #generated:13
+-keep class com.xpple.im.view.SearchDevicesView { <init>(...); }
+
+# view res/layout/activity_add_contact.xml #generated:44
+# view res/layout/activity_chat.xml #generated:17
+# view res/layout/activity_near_people.xml #generated:17
+# view res/layout/activity_robot.xml #generated:12
+-keep class com.xpple.im.view.xlist.XListView { <init>(...); }
+
+# view res/layout/item_show_picture.xml #generated:8
+-keep class uk.co.senab.photoview.PhotoView { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:206
+# onClick res/layout/activity_main.xml #generated:241
+# onClick res/layout/activity_main.xml #generated:261
+-keepclassmembers class * { *** onTabSelect(...); }
+
+# onClick res/layout/include_chat_bottom_bar.xml #generated:18
+# onClick res/layout/include_chat_bottom_bar.xml #generated:26
+-keepclassmembers class * { *** toAction(...); }
+
